@@ -294,4 +294,8 @@ ul {
         display: grid;
         grid-template-columns: auto;
     }
+
+    h4 {
+        font-size: medium;
+    }
 }
