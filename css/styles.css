@@ -290,10 +290,6 @@ ul {
         grid-template-columns: auto;
     } 
     
-    .podcasts {
-        display: grid;
-        grid-template-columns: auto;
-    }
 
     h4 {
         font-size: medium;
